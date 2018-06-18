@@ -10,5 +10,5 @@ package test2;
  * @author nettuc
  */
 public class NewClass {
-    
+    int x;
 }
